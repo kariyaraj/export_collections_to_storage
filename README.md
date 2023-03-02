@@ -1,7 +1,7 @@
-env.py:
+env.py:<br>
 
-host = "https://[ENDPOINT DO APPWRITE]/v1"
-projeto = "[NOME DO PROJETO]"
-function_key = "[CHAVE DA FUNÇÃO]"
-db = "[ID DO BANCO DE DADOS]"
+host = "https://[ENDPOINT DO APPWRITE]/v1"<br>
+projeto = "[NOME DO PROJETO]"<br>
+function_key = "[CHAVE DA FUNÇÃO]"<br>
+db = "[ID DO BANCO DE DADOS]"<br>
  
