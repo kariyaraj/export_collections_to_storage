@@ -1,4 +1,4 @@
-env.py:<br>
+To use the test file, create an env.py file:<br>
 
 host = "https://[ENDPOINT DO APPWRITE]/v1"<br>
 projeto = "[NOME DO PROJETO]"<br>
